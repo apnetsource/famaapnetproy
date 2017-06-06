@@ -1,0 +1,56 @@
+C:\APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.dll
+C:\APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll
+C:\APNET\ViewModel\bin\Debug\FAMA.AP.Model.dll
+C:\APNET\ViewModel\bin\Debug\FAMA.AP.Model.pdb
+C:\APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll.config
+C:\APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
+C:\APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
+C:\APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\bin\Debug\FAMA.AP.Model.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\bin\Debug\FAMA.AP.Model.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\bin\Debug\FAMA.AP.ViewModel.dll
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\bin\Debug\FAMA.AP.Model.dll
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\bin\Debug\FAMA.AP.Model.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll.config
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
+C:\FAMA.APNET.Solution\_APNET_MR\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb
+C:\_APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.dll
+C:\_APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\_APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll
+C:\_APNET\ViewModel\bin\Debug\FAMA.AP.Model.dll
+C:\_APNET\ViewModel\bin\Debug\FAMA.AP.Model.pdb
+C:\_APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\_APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
+C:\_APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
+C:\_APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.Model.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.Model.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.Model.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.Model.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb

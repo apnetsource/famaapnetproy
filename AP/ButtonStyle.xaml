@@ -1,0 +1,34 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:FAMA.AP.Desktop.View">
+    <Style x:Key="Edit" TargetType="Image">
+        <Setter Property="Source" Value="/IMG/COMMONS/editar.png"/>
+        <Style.Triggers>
+            <Trigger Property="Image.IsMouseOver" Value="True">
+                <Setter Property="Image.Source" Value="/IMG/COMMONS/EDITAR2.png"></Setter>
+                <Setter Property="Image.ToolTip" Value="Editar"></Setter>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="Cancel" TargetType="Image">
+        <Setter Property="Source" Value="/IMG/COMMONS/cancelar.png"></Setter>
+        <Style.Triggers>
+            <Trigger Property="Image.IsMouseOver" Value="True">
+                <Setter Property="Image.Source" Value="/IMG/COMMONS/CANCELAR2.png"></Setter>
+                <Setter Property="Image.ToolTip" Value="Cancelar"></Setter>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="Save" TargetType="Image">
+        <Setter Property="Source" Value="/IMG/COMMONS/transmitir.png"></Setter>
+        <Style.Triggers>
+            <Trigger Property="Image.IsMouseOver" Value="True">
+                <Setter Property="Image.Source" Value="/IMG/COMMONS/TRANSMITIR2.png"></Setter>
+                <Setter Property="Image.ToolTip" Value="Transmitir"></Setter>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+</ResourceDictionary>

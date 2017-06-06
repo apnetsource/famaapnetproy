@@ -1,0 +1,102 @@
+C:\APNET\APNETDesktop\bin\Debug\APNETDesktop.exe.config
+C:\APNET\APNETDesktop\bin\Debug\APNETDesktop.exe
+C:\APNET\APNETDesktop\bin\Debug\APNETDesktop.pdb
+C:\APNET\APNETDesktop\obj\Debug\CEIS.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Cliente.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Distribuidor.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Dosificador.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Empujador.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Linea.g.cs
+C:\APNET\APNETDesktop\obj\Debug\MainWindow.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Motorizacion.g.cs
+C:\APNET\APNETDesktop\obj\Debug\TestWindow.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Views\CustomerListView.g.cs
+C:\APNET\APNETDesktop\obj\Debug\Views\OrderView.g.cs
+C:\APNET\APNETDesktop\obj\Debug\App.g.cs
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop_MarkupCompile.cache
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop_MarkupCompile.lref
+C:\APNET\APNETDesktop\obj\Debug\CEIS.baml
+C:\APNET\APNETDesktop\obj\Debug\Cliente.baml
+C:\APNET\APNETDesktop\obj\Debug\Distribuidor.baml
+C:\APNET\APNETDesktop\obj\Debug\Dosificador.baml
+C:\APNET\APNETDesktop\obj\Debug\Empujador.baml
+C:\APNET\APNETDesktop\obj\Debug\Linea.baml
+C:\APNET\APNETDesktop\obj\Debug\MainWindow.baml
+C:\APNET\APNETDesktop\obj\Debug\Motorizacion.baml
+C:\APNET\APNETDesktop\obj\Debug\TestWindow.baml
+C:\APNET\APNETDesktop\obj\Debug\Views\CustomerListView.baml
+C:\APNET\APNETDesktop\obj\Debug\Views\OrderView.baml
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop.g.resources
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop.Properties.Resources.resources
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop.csproj.GenerateResource.Cache
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop.exe
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop.pdb
+C:\APNET\APNETDesktop\obj\Debug\APNETDesktop.csprojResolveAssemblyReference.cache
+C:\_APNET\APNETDesktop\bin\Debug\APNETDesktop.exe.config
+C:\_APNET\APNETDesktop\bin\Debug\APNETDesktop.exe
+C:\_APNET\APNETDesktop\bin\Debug\APNETDesktop.pdb
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop.csprojResolveAssemblyReference.cache
+C:\_APNET\APNETDesktop\obj\Debug\CEIS.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Cliente.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Distribuidor.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Dosificador.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Empujador.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Linea.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\MainWindow.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Motorizacion.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\TestWindow.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Views\CustomerListView.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\Views\OrderView.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\App.g.cs
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop_MarkupCompile.cache
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop_MarkupCompile.lref
+C:\_APNET\APNETDesktop\obj\Debug\CEIS.baml
+C:\_APNET\APNETDesktop\obj\Debug\Cliente.baml
+C:\_APNET\APNETDesktop\obj\Debug\Distribuidor.baml
+C:\_APNET\APNETDesktop\obj\Debug\Dosificador.baml
+C:\_APNET\APNETDesktop\obj\Debug\Empujador.baml
+C:\_APNET\APNETDesktop\obj\Debug\Linea.baml
+C:\_APNET\APNETDesktop\obj\Debug\MainWindow.baml
+C:\_APNET\APNETDesktop\obj\Debug\Motorizacion.baml
+C:\_APNET\APNETDesktop\obj\Debug\TestWindow.baml
+C:\_APNET\APNETDesktop\obj\Debug\Views\CustomerListView.baml
+C:\_APNET\APNETDesktop\obj\Debug\Views\OrderView.baml
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop.g.resources
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop.Properties.Resources.resources
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop.csproj.GenerateResource.Cache
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop.exe
+C:\_APNET\APNETDesktop\obj\Debug\APNETDesktop.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\bin\Debug\APNETDesktop.exe.config
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\bin\Debug\APNETDesktop.exe
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\bin\Debug\APNETDesktop.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop.csprojResolveAssemblyReference.cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\CEIS.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Cliente.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Distribuidor.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Dosificador.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Empujador.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Linea.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Motorizacion.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\TestWindow.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Views\CustomerListView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Views\OrderView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\App.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop_MarkupCompile.cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop_MarkupCompile.lref
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\CEIS.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Cliente.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Distribuidor.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Dosificador.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Empujador.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Linea.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\MainWindow.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Motorizacion.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\TestWindow.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Views\CustomerListView.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\Views\OrderView.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop.g.resources
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop.Properties.Resources.resources
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop.csproj.GenerateResource.Cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop.exe
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\APNETDesktop\obj\Debug\APNETDesktop.pdb

@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="APNETDesktop.Views.CustomerListView" 
+   xmlns = "http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+   xmlns:x = "http://schemas.microsoft.com/winfx/2006/xaml" 
+   xmlns:mc = "http://schemas.openxmlformats.org/markup-compatibility/2006" 
+   xmlns:d = "http://schemas.microsoft.com/expression/blend/2008" 
+   xmlns:local = "clr-namespace:APNETDesktop.Views" 
+   mc:Ignorable = "d" 
+   d:DesignHeight = "300" d:DesignWidth = "300">
+
+    <Grid>
+        <DockPanel Panel.ZIndex="50">
+            <!--<Border Background="SkyBlue"
+           BorderBrush="Black"
+           BorderThickness="1"
+           Padding="3"
+           DockPanel.Dock="Top">
+                <TextBlock Foreground="Black">Top 1</TextBlock>
+            </Border>-->
+            <!--<Border Background="SkyBlue"
+           BorderBrush="Black"
+           BorderThickness="1"
+           Padding="3"
+           DockPanel.Dock="Top">
+                <TextBlock Foreground="Black">Top 2</TextBlock>
+            </Border>-->
+            <Border Background="LemonChiffon"
+           BorderBrush="Black"
+           BorderThickness="1"
+           Padding="3"
+           DockPanel.Dock="Bottom">
+                <TextBlock Foreground="Black">Vitro S.A. de C.V.</TextBlock>
+            </Border>
+            <Image Source="c:\APnet\APNETDesktop\Recursos\20161104 - AProcesos Layout General de Linea I.S. - 1800 hrs.png" Margin="0,77,0,0"/>
+            <Frame x:Name="_mainFrame" />
+        </DockPanel>
+        <WrapPanel Panel.ZIndex="1" Margin="30,100,0,0" Orientation="Vertical">
+            <Button Content="Dosificador"  Margin="0,0,0,10" />
+            <Button Content="Distribuidor"   Margin="0,0,0,10"/>
+            <Button Content="Cliente"  Margin="0,0,0,10"/>
+
+            <!--<local:NavigateButton Content="CLIENTE" NavigateUri="/Cliente.xaml"/>-->
+        </WrapPanel>
+        <WrapPanel Panel.ZIndex="10" Margin="0,0,0,0" >
+            <Image Source="c:\APnet\APNETDesktop\Recursos\HEADER.png" Width="791" Height="76"></Image>
+        </WrapPanel>
+    </Grid>
+
+</UserControl>

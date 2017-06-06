@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="FAMA.AP.Desktop.View.Header"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="800">
+
+    <Grid Height="91" Margin="0,0,1,0" Background="Silver"  VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="41*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="197*"/>
+            <ColumnDefinition Width="62*"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="12*"/>
+            <ColumnDefinition Width="161*"/>
+            <ColumnDefinition Width="152*"/>
+            <ColumnDefinition Width="163*"/>
+
+        </Grid.ColumnDefinitions>
+        <!-- content -->
+        <WrapPanel Grid.Column="0" Margin="0,0,32,0" Grid.RowSpan="3">
+            <Image x:Name="image"  Height="93" Width="168" Source="IMG/logofamaDesk.png"/>
+        </WrapPanel>
+        <Label x:Name="lblBPM" Content="BPM" HorizontalAlignment="Left" Margin="4,10,0,14" Width="50" Grid.RowSpan="2" Grid.Column="1"/>
+        <Label x:Name="lblMold" Content="Mold." HorizontalAlignment="Left" Margin="3,1,0,0" VerticalAlignment="Top" Grid.Row="1" Grid.RowSpan="2" Height="26" Width="55" Grid.Column="1"/>
+        <Label x:Name="txtBPM" Content="" HorizontalAlignment="Left" Margin="49,12,0,0" VerticalAlignment="Top" Width="62" Height="25" Grid.RowSpan="2" Grid.ColumnSpan="2" Grid.Column="1" Foreground="Blue"/>
+        <Label x:Name="txtMold" Content="" HorizontalAlignment="Left" Margin="49,2,0,0" VerticalAlignment="Top" Width="62" Height="25" Grid.RowSpan="2" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="1" Foreground="Blue"/>
+        <Label x:Name="txtNombre" Content="" HorizontalAlignment="Left" Margin="70,0,0,15" VerticalAlignment="Bottom" Width="93" Height="24" Grid.Row="2" Grid.Column="6" Foreground="Black"/>
+        <Label x:Name="lblVReal" Content="V.Real" HorizontalAlignment="Left" Margin="3,10,0,14" Width="82" Grid.RowSpan="2" Grid.Column="4"/>
+        <Label x:Name="lblVTeorico" Content="V.Teorico" HorizontalAlignment="Left" Margin="3,1,0,0" VerticalAlignment="Top" Grid.Row="1" Grid.RowSpan="2" Height="26" Width="80" Grid.Column="4"/>
+        <Label x:Name="lblVSeccion" Content="V.Sección" HorizontalAlignment="Left" Margin="3,1,0,0" VerticalAlignment="Top" Grid.Row="2" Height="26" Width="81" Grid.Column="4"/>
+        <Label x:Name="txtVSeccion" Content="" HorizontalAlignment="Left" Margin="85,2,0,0" VerticalAlignment="Top" Width="61" Height="25" Grid.Row="2" Grid.Column="4" Foreground="Blue"/>
+        <Label x:Name="txtVReal" Content="" HorizontalAlignment="Left" Margin="86,10,0,0" VerticalAlignment="Top" Width="62" Height="25" Grid.RowSpan="2" Grid.Column="4" Foreground="Blue"/>
+        <Label x:Name="txtVTeorico" Content="" HorizontalAlignment="Left" Margin="85,2,0,0" VerticalAlignment="Top" Width="57" Height="25" Grid.RowSpan="2" Grid.Row="1" Grid.Column="4" Foreground="Blue"/>
+        <Label x:Name="lblCicloReal" Content="T.Ciclo Real" HorizontalAlignment="Left" Margin="3,10,0,0" VerticalAlignment="Top" Width="87" Grid.RowSpan="2" Height="26" Grid.Column="5"/>
+        <Label x:Name="lblCicloTeo" Content="T.Ciclo Teorico" HorizontalAlignment="Left" Margin="3,1,0,0" VerticalAlignment="Top" Grid.Row="1" Grid.RowSpan="2" Height="26" Width="89" Grid.Column="5"/>
+        <Label x:Name="txtCicloReal" Content="" HorizontalAlignment="Left" Margin="91,8,0,0" VerticalAlignment="Top" Width="59" Height="25" Grid.RowSpan="2" Grid.Column="5" Foreground="Blue"/>
+        <Label x:Name="txtCicloTeo" Content="" HorizontalAlignment="Left" Margin="91,2,0,0" VerticalAlignment="Top" Width="58" Height="25" Grid.RowSpan="2" Grid.Row="1" Grid.Column="5" Foreground="Blue"/>
+        <Label x:Name="lblSecOper" Content="Secs. Operativas" HorizontalAlignment="Left" Margin="3,1,0,0" VerticalAlignment="Top" Grid.Row="2" Height="26" Width="103" Grid.Column="5"/>
+        <Label x:Name="txtSecOper" Content="" HorizontalAlignment="Left" Margin="99,2,0,0" VerticalAlignment="Top" Width="51" Height="25" Grid.Row="2" Grid.Column="5" Foreground="Blue" />
+        <Label x:Name="txtTime" Content="" HorizontalAlignment="Left" Margin="70,2,0,0" VerticalAlignment="Top" Width="88" Grid.Column="6" Height="26" Foreground="Black" FontSize="14" />
+        <Label x:Name="txtDate" Content="" HorizontalAlignment="Left" Margin="70,2,0,0" VerticalAlignment="Top" Width="89" Height="26" Grid.Row="1" Grid.RowSpan="2" Grid.Column="6" Foreground="Blue"/>
+        <Image x:Name="imgUser" Grid.Column="6" HorizontalAlignment="Left" Height="88" Margin="4,11,0,-8" VerticalAlignment="Top" Width="63" Source="IMG/LOGIN/AV1.png" Grid.RowSpan="3"/>
+
+    </Grid >
+
+</UserControl>

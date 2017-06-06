@@ -1,0 +1,5 @@
+c:\Users\gmcomlpt0001\documents\visual studio 2017\Projects\AP\AP.ViewModel\bin\Debug\AP.ViewModel.dll
+c:\Users\gmcomlpt0001\documents\visual studio 2017\Projects\AP\AP.ViewModel\bin\Debug\AP.ViewModel.pdb
+c:\Users\gmcomlpt0001\documents\visual studio 2017\Projects\AP\AP.ViewModel\obj\Debug\AP.ViewModel.csprojResolveAssemblyReference.cache
+c:\Users\gmcomlpt0001\documents\visual studio 2017\Projects\AP\AP.ViewModel\obj\Debug\AP.ViewModel.dll
+c:\Users\gmcomlpt0001\documents\visual studio 2017\Projects\AP\AP.ViewModel\obj\Debug\AP.ViewModel.pdb

@@ -1,0 +1,47 @@
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.View.exe.config
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.View.exe
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.View.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.DataAccess.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.Model.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.ViewModel.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.Model.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.DataAccess.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\bin\Debug\AP.ViewModel.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\APView.csprojResolveAssemblyReference.cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\Header.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\UserLogIn.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\UserAdministrator.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\Header.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\UserLogIn.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\UserAdministrator.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\App.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\AP.View_MarkupCompile.cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\AP.View.g.resources
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\AP.View.Properties.Resources.resources
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\APView.csproj.GenerateResource.Cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\AP.View.exe
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\AP\AP\obj\Debug\AP.View.pdb
+C:\AP\AP\AP\bin\Debug\AP.View.exe.config
+C:\AP\AP\AP\bin\Debug\AP.View.exe
+C:\AP\AP\AP\bin\Debug\AP.View.pdb
+C:\AP\AP\AP\bin\Debug\AP.DataAccess.dll
+C:\AP\AP\AP\bin\Debug\AP.Model.dll
+C:\AP\AP\AP\bin\Debug\AP.ViewModel.dll
+C:\AP\AP\AP\bin\Debug\AP.Model.pdb
+C:\AP\AP\AP\bin\Debug\AP.DataAccess.pdb
+C:\AP\AP\AP\bin\Debug\AP.DataAccess.dll.config
+C:\AP\AP\AP\bin\Debug\AP.ViewModel.pdb
+C:\AP\AP\AP\obj\Debug\APView.csprojResolveAssemblyReference.cache
+C:\AP\AP\AP\obj\Debug\Header.baml
+C:\AP\AP\AP\obj\Debug\UserLogIn.baml
+C:\AP\AP\AP\obj\Debug\UserAdministrator.baml
+C:\AP\AP\AP\obj\Debug\Header.g.cs
+C:\AP\AP\AP\obj\Debug\UserLogIn.g.cs
+C:\AP\AP\AP\obj\Debug\UserAdministrator.g.cs
+C:\AP\AP\AP\obj\Debug\App.g.cs
+C:\AP\AP\AP\obj\Debug\AP.View_MarkupCompile.cache
+C:\AP\AP\AP\obj\Debug\AP.View.g.resources
+C:\AP\AP\AP\obj\Debug\AP.View.Properties.Resources.resources
+C:\AP\AP\AP\obj\Debug\APView.csproj.GenerateResource.Cache
+C:\AP\AP\AP\obj\Debug\AP.View.exe
+C:\AP\AP\AP\obj\Debug\AP.View.pdb

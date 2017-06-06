@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="FAMA.AP.Desktop.View.LineaView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FAMA.AP.Desktop.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="504.15" d:DesignWidth="1133.586">
+    <Grid>
+
+        <Image Source="/img/20161104 - AProcesos Layout General de Linea I.S. - 1800 hrs.png" Margin="40,0,270,0" />
+
+        <Canvas Panel.ZIndex="200" >
+            <Button Content="Dosificador"  Canvas.Top="90" Canvas.Left="365" Click="DosificadorButton_Click"/>
+            <Button Content="Distribuidor"   Canvas.Top="160" Canvas.Left="365" Click="DistribuidorButton_Click"/>
+            <Button Content="Cliente"  Canvas.Top="120" Canvas.Left="850" Click="ClienteButton_Click"/>
+            <Button Content="Empujador"  Canvas.Top="240" Canvas.Left="550" Click="EmpujadorButton_Click"/>
+            <Button Content="Motorización"  Canvas.Top="420" Canvas.Left="570" Click="MotorizacionButton_Click"/>
+            <Button Content="CEIS"  Canvas.Top="420" Canvas.Left="170" Click="CEISButton_Click"/>
+        </Canvas>
+
+    </Grid>
+</UserControl>

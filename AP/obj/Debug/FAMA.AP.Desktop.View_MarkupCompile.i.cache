@@ -1,0 +1,20 @@
+﻿FAMA.AP.Desktop.View
+
+
+winexe
+C#
+.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\
+FAMA.AP.Desktop.View
+none
+false
+DEBUG;TRACE
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\App.xaml
+25-1295227968
+201072628941
+32-1211346588
+711585422392
+addTest.xaml;ADMIN\BarSeries.xaml;ADMIN\ClientView.xaml;ADMIN\ProcessTypeView.xaml;ButtonStyle.xaml;CeisView.xaml;EventsView.xaml;HomeView.xaml;LineaView.xaml;MechanismView.xaml;ModalView.xaml;SectionsBar.xaml;SERVOMEC\CEISView.xaml;SERVOMEC\ClienteView.xaml;SERVOMEC\DistribuidorView.xaml;SERVOMEC\DosificadorView.xaml;SERVOMEC\EmpujadorView.xaml;SERVOMEC\MotorizacionView.xaml;SERVOMEC\NavegacionServoMecView.xaml;TiemposOperacion.xaml;TiemposOperacionA.xaml;USERCTL\SectionsView.xaml;UserView.xaml;Header.xaml;UserLogIn.xaml;
+
+False
+

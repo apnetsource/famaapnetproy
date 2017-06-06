@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="FAMA.AP.Desktop.View.USERCTL.SectionsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FAMA.AP.Desktop.View.USERCTL"
+             xmlns:vm="clr-namespace:FAMA.AP.ViewModel;assembly=FAMA.AP.ViewModel"
+             mc:Ignorable="d" Width="1329.752" Height="100">
+    <Control.Resources>
+        <vm:SectionsViewModel x:Key="ViewModel"/>
+    </Control.Resources>
+    <Grid DataContext="{Binding Source={StaticResource ViewModel}}" Margin="0,0,-344,-1" VerticalAlignment="Top" >
+        <Border Visibility="Visible" BorderThickness="8" BorderBrush="White" CornerRadius="1" Margin="0,10,-642,0" Height="91" VerticalAlignment="Top">
+            <Canvas Height="50" Margin="0,0,133,0">
+                <StackPanel Height="74" Width="2135" RenderTransformOrigin="0.497,-0.29"/>
+                <Button x:Name="btn_sec1" Content="1" Canvas.Left="51" Canvas.Top="10" Width="90" RenderTransformOrigin="0.102,0.485" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec1_Click"/>
+                <Button x:Name="btn_sec2" Content="2" Canvas.Left="146" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Foreground="White" Click="btn_sec2_Click"/>
+                <Button x:Name="btn_sec3" Content="3" Canvas.Left="241" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Foreground="White" Click="btn_sec3_Click"/>
+                <Button x:Name="btn_sec4" Content="4" Canvas.Left="336" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec4_Click"/>
+                <Button x:Name="btn_sec5" Content="5" Canvas.Left="431" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec5_Click"/>
+                <Button x:Name="btn_sec6" Content="6" Canvas.Left="526" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec6_Click"/>
+                <Button x:Name="btn_sec7" Content="7" Canvas.Left="621" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec7_Click"/>
+                <Button x:Name="btn_sec8" Content="8" Canvas.Left="716" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec8_Click"/>
+                <Button x:Name="btn_sec9" Content="9" Canvas.Left="811" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec9_Click"/>
+                <Button x:Name="btn_sec10" Content="10" Canvas.Left="906" Width="105" Canvas.Top="10" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec10_Click"/>
+                <Button x:Name="btn_sec11" Content="11" Canvas.Left="1016" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="35" FontWeight="Bold" Click="btn_sec11_Click"/>
+                <Button x:Name="btn_sec12" Content="12" Canvas.Left="1111" Canvas.Top="10" Width="90" Height="40" Background="Black" BorderBrush="#00000000" Foreground="White" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Click="btn_sec12_Click"/>
+                <Button x:Name="btn_maq" Content="MAQ" Canvas.Left="1206" Canvas.Top="10" Width="90" RenderTransformOrigin="0.742,0.394" Height="40" Background="#FF707070" FontFamily="Calibri" FontSize="32" FontWeight="Bold" Foreground="White" BorderBrush="#00000000"/>
+            </Canvas>
+
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,86 @@
+﻿<Window x:Class="FAMA.AP.Desktop.View.UserAdministrator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:FAMA.AP.ViewModel;assembly=FAMA.AP.ViewModel"
+        Title="User Administrator" Height="600" Width="900">
+    <Window.Resources>
+        <vm:UserViewModel x:Key="ViewModel"/>
+    </Window.Resources>
+
+    <Grid DataContext="{Binding Source={StaticResource ViewModel}}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="Auto" MinWidth="312" />
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Name:" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,10" Grid.Row="1" Height="16" Width="34"   />
+        <TextBox x:Name="txtName" Text="{Binding User.Name}" Grid.Column="1" Width="250" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Bottom"  Margin="5,0,0,10" Grid.Row="1" MaxLength="50"/>
+
+        <TextBlock Text="Last Name:" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,10" Grid.Row="2" Height="16" Width="58"   />
+        <TextBox x:Name="txtLastName" Text="{Binding User.LastName}" Grid.Column="1" Width="250" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Bottom"  Margin="5,0,0,10" Grid.Row="2" MaxLength="50"/>
+
+        <TextBlock Text="User Name:" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,10" Grid.Row="3" Height="16" Width="61"   />
+        <TextBox x:Name="txtUserName" Text="{Binding User.UserName}" Grid.Column="1" Width="250" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Bottom"  Margin="5,0,0,10" Grid.Row="3" MaxLength="50"/>
+
+        <TextBlock Text="Password:" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,10" Grid.Row="4" Height="16" Width="52"   />
+        <TextBox  x:Name="txtPsw"  Text="{Binding User.Password}" Grid.Column="1" Width="250" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Bottom"  Margin="5,0,0,10" Grid.Row="4"  MaxLength="10"/>
+
+        <TextBlock Text="Confirm Password:" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,10" Grid.Row="5" Height="16" Width="98"   />
+        <TextBox  x:Name="txtPswConfir" Grid.Column="1" Width="250" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Bottom"  Margin="5,0,0,10" Grid.Row="5"  MaxLength="10"/>
+
+        <TextBlock Text="eMail:" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,10" Grid.Row="6" Height="16" Width="32"   />
+        <TextBox x:Name="txteMail"  Text="{Binding User.EmailAddress}" Grid.Column="1" Width="250" Height="20" HorizontalAlignment="Left"  VerticalAlignment="Bottom"  Margin="5,0,0,10" Grid.Row="6" MaxLength="50"/>
+
+        <TextBlock Text="Profile:" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,0" Grid.Row="7" Height="16" Width="36"  />
+        <ComboBox Name="cmbProfile" Text="{Binding User.Rol.idProfile}" Grid.Column="1" Grid.Row="7" Margin="6,31,56,1" Grid.RowSpan="3"/>
+
+        <Button x:Name="btn_Save"  Command="{Binding AddCommand}" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,57,-48" Content="Save" Grid.Row="9" Width="97" Height="31"/>
+
+
+        <DataGrid ItemsSource="{Binding Users}" AutoGenerateColumns="False"   Grid.ColumnSpan="3" Grid.Row="11" Margin="10,69,10,-69" CanUserAddRows="False" AlternatingRowBackground="Gray" HorizontalAlignment="Center">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding FullName}" Width="*" />
+                <DataGridTextColumn Header="Rol" Binding="{Binding idProfile}" Width="*" />
+                <DataGridTextColumn Header="User Name" Binding="{Binding UserName}"  Width="*" />
+                <DataGridTextColumn Header="eMail" Binding="{Binding EmailAddress}" Width="*" />
+                <DataGridTemplateColumn Width="70">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Button Content="Remove..." Margin="3" Command="{Binding Path=DataContext.RemoveCommand,RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}}" 
+                                        CommandParameter="{Binding}"/>
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="70">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Button Content="Edit..." Margin="3" Command="{Binding Path=DataContext.EditCommand,RelativeSource={RelativeSource AncestorType={x:Type DataGrid }}}" 
+                                        CommandParameter="{Binding}" />
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

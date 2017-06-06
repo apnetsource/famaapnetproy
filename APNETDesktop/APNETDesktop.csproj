@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A62A15CB-5C19-477C-AA2A-7D29E83D1873}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>APNETDesktop</RootNamespace>
+    <AssemblyName>APNETDesktop</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="CEIS.xaml.cs">
+      <DependentUpon>CEIS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Empujador.xaml.cs">
+      <DependentUpon>Empujador.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\BindableBase.cs" />
+    <Compile Include="Model\MyICommand.cs" />
+    <Compile Include="Motorizacion.xaml.cs">
+      <DependentUpon>Motorizacion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestWindow.xaml.cs">
+      <DependentUpon>TestWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\CustomerListViewModel.cs" />
+    <Compile Include="ViewModel\OrderViewModel.cs" />
+    <Compile Include="Views\CustomerListView.xaml.cs">
+      <DependentUpon>CustomerListView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OrderView.xaml.cs">
+      <DependentUpon>OrderView.xaml</DependentUpon>
+    </Compile>
+    <Page Include="CEIS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Cliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Distribuidor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dosificador.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empujador.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Linea.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cliente.xaml.cs">
+      <DependentUpon>Cliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Distribuidor.xaml.cs">
+      <DependentUpon>Distribuidor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dosificador.xaml.cs">
+      <DependentUpon>Dosificador.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Linea.xaml.cs">
+      <DependentUpon>Linea.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Motorizacion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CustomerListView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\OrderView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\Customer.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\1CABSOPLO1 - copia.png" />
+    <Resource Include="Recursos\1MOLDE DER1 - copia.png" />
+    <Resource Include="Recursos\1MOLDE IZQ1 - copia.png" />
+    <Resource Include="Recursos\1SACADORA1 - copia.png" />
+    <Resource Include="Recursos\20161104 - AProcesos Layout General de Linea I.S. - 1800 hrs.png" />
+    <Resource Include="Recursos\2BOMBILLO DER1 - copia.png" />
+    <Resource Include="Recursos\2BOMBILLO IZQ1 - copia.png" />
+    <Resource Include="Recursos\2EMBUDO1 - copia.png" />
+    <Resource Include="Recursos\2INVERTIR1 - copia.png" />
+    <Resource Include="Recursos\2OBTURADOR1 - copia.png" />
+    <Resource Include="Recursos\A1.png" />
+    <Resource Include="Recursos\A2 - copia.png" />
+    <Resource Include="Recursos\B1.png" />
+    <Resource Include="Recursos\B2 - copia.png" />
+    <Resource Include="Recursos\Bandera-SP.png" />
+    <Resource Include="Recursos\barra.png" />
+    <Resource Include="Recursos\BOMBILLO DER1.png" />
+    <Resource Include="Recursos\BOMBILLO IZQ1.png" />
+    <Resource Include="Recursos\CABSOPLO1.png" />
+    <Resource Include="Recursos\cancelar.png" />
+    <Resource Include="Recursos\D1.png" />
+    <Resource Include="Recursos\D2 - copia.png" />
+    <Resource Include="Recursos\editar.png" />
+    <Resource Include="Recursos\EMBUDO1.png" />
+    <Resource Include="Recursos\Fondo_Plantilla.png" />
+    <Resource Include="Recursos\inglaterra.png" />
+    <Resource Include="Recursos\INVERTIR1.png" />
+    <Resource Include="Recursos\MOLDE DER1.png" />
+    <Resource Include="Recursos\MOLDE IZQ1.png" />
+    <Resource Include="Recursos\OBTURADOR1.png" />
+    <Resource Include="Recursos\Plantilla_Avatar2.png" />
+    <Resource Include="Recursos\Plantilla_Home.png" />
+    <Resource Include="Recursos\Plantilla_Menu.png" />
+    <Resource Include="Recursos\SACADORA1.png" />
+    <Resource Include="Recursos\sombra 2.png" />
+    <Resource Include="Recursos\transmitir.png" />
+    <Resource Include="Recursos\wee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\HEADER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Recursos\B1 %282%29.png" />
+    <Resource Include="Recursos\B2.png" />
+    <Resource Include="Recursos\B3.png" />
+    <Resource Include="Recursos\B4.png" />
+    <Resource Include="Recursos\B5.png" />
+    <Resource Include="Recursos\B6.png" />
+    <Resource Include="Recursos\C1.png" />
+    <Resource Include="Recursos\C2 - copia.png" />
+    <Resource Include="Recursos\C2.png" />
+    <Resource Include="Recursos\C3.png" />
+    <Resource Include="Recursos\C4.png" />
+    <Resource Include="Recursos\C5.png" />
+    <Resource Include="Recursos\C6.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,367 @@
+C:\APNET\AP\obj\Debug\Header.baml
+C:\APNET\AP\obj\Debug\HomeView.baml
+C:\APNET\AP\obj\Debug\Header.g.cs
+C:\APNET\AP\obj\Debug\HomeView.g.cs
+C:\APNET\AP\obj\Debug\App.g.cs
+C:\APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\APNET\AP\obj\Debug\UserLogIn.baml
+C:\APNET\AP\obj\Debug\UserAdministrator.baml
+C:\APNET\AP\obj\Debug\UserLogIn.g.cs
+C:\APNET\AP\obj\Debug\UserAdministrator.g.cs
+C:\APNET\AP\obj\Debug\Distribuidor.g.cs
+C:\APNET\AP\obj\Debug\Dosificador.g.cs
+C:\APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\APNET\AP\obj\Debug\DistribuidorView.g.cs
+C:\APNET\AP\obj\Debug\DosificadorView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.DataLayer.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.Model.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.Model.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\UserView.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\ApplicationView.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\Header.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\HomeView.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\UserLogIn.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\addTest.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\UserView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\ApplicationView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\Distribuidor.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\DistribuidorView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\Dosificador.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\DosificadorView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FamaMenu.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\Header.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\HomeView.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\UserLogIn.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\App.g.cs
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\addTest.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\Distribuidor.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\DistribuidorView.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\Dosificador.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\DosificadorView.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FamaMenu.baml
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.g.resources
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.Properties.Resources.resources
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csproj.GenerateResource.Cache
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\Users\GMCOMLPT0001\Documents\Visual Studio 2015\Projects\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.pdb
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.pdb
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.DataLayer.dll
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.Model.dll
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.ViewModel.dll
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.Model.pdb
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.DataLayer.dll.config
+C:\FAMA.APNET.Solution\_APNET\AP\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\UserView.baml
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\Header.baml
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\UserLogIn.baml
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\addTest.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\UserView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FamaMenu.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\Header.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\UserLogIn.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\App.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\addTest.baml
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FamaMenu.baml
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.g.resources
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.Properties.Resources.resources
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csproj.GenerateResource.Cache
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.pdb
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\HomeView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\LineaView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\SERVOMEC\CEISView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\SERVOMEC\ClienteView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\SERVOMEC\DistribuidorView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\SERVOMEC\DosificadorView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\SERVOMEC\EmpujadorView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\SERVOMEC\MotorizacionView.g.cs
+C:\FAMA.APNET.Solution\_APNET\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.Desktop.View.exe
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.Desktop.View.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.DataLayer.dll
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.Model.dll
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.ViewModel.dll
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.Model.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.DataLayer.dll.config
+C:\FAMA.APNET.Solution\_APNET_MR\AP\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\UserView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\Header.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\UserLogIn.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\addTest.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\HomeView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\LineaView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\CEISView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\ClienteView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\DistribuidorView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\DosificadorView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\EmpujadorView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\MotorizacionView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\UserView.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\Header.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\UserLogIn.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\App.g.cs
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\addTest.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\HomeView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\LineaView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\CEISView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\ClienteView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\DistribuidorView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\DosificadorView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\EmpujadorView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\MotorizacionView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.baml
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.g.resources
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.Properties.Resources.resources
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.csproj.GenerateResource.Cache
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.pdb
+C:\FAMA.APNET.Solution\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.pdb
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.Desktop.View.exe
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.Desktop.View.pdb
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.DataLayer.dll
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.Model.dll
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.ViewModel.dll
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.Model.pdb
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\_APNET_MR\AP\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\_APNET_MR\AP\obj\Debug\UserView.baml
+C:\_APNET_MR\AP\obj\Debug\Header.baml
+C:\_APNET_MR\AP\obj\Debug\UserLogIn.baml
+C:\_APNET_MR\AP\obj\Debug\addTest.g.cs
+C:\_APNET_MR\AP\obj\Debug\HomeView.g.cs
+C:\_APNET_MR\AP\obj\Debug\LineaView.g.cs
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\CEISView.g.cs
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\ClienteView.g.cs
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\DistribuidorView.g.cs
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\DosificadorView.g.cs
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\EmpujadorView.g.cs
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\MotorizacionView.g.cs
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.g.cs
+C:\_APNET_MR\AP\obj\Debug\UserView.g.cs
+C:\_APNET_MR\AP\obj\Debug\Header.g.cs
+C:\_APNET_MR\AP\obj\Debug\UserLogIn.g.cs
+C:\_APNET_MR\AP\obj\Debug\App.g.cs
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\_APNET_MR\AP\obj\Debug\addTest.baml
+C:\_APNET_MR\AP\obj\Debug\HomeView.baml
+C:\_APNET_MR\AP\obj\Debug\LineaView.baml
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\CEISView.baml
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\ClienteView.baml
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\DistribuidorView.baml
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\DosificadorView.baml
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\EmpujadorView.baml
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\MotorizacionView.baml
+C:\_APNET_MR\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.baml
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.g.resources
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.Properties.Resources.resources
+C:\_APNET_MR\AP\obj\Debug\FAMA.AP.Desktop.View.csproj.GenerateResource.Cache
+C:\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe
+C:\_APNET\AP\bin\Debug\FAMA.AP.Desktop.View.pdb
+C:\_APNET\AP\bin\Debug\FAMA.AP.DataLayer.dll
+C:\_APNET\AP\bin\Debug\FAMA.AP.Model.dll
+C:\_APNET\AP\bin\Debug\FAMA.AP.ViewModel.dll
+C:\_APNET\AP\bin\Debug\FAMA.AP.Model.pdb
+C:\_APNET\AP\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\_APNET\AP\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\_APNET\AP\obj\Debug\UserView.baml
+C:\_APNET\AP\obj\Debug\Header.baml
+C:\_APNET\AP\obj\Debug\UserLogIn.baml
+C:\_APNET\AP\obj\Debug\addTest.g.cs
+C:\_APNET\AP\obj\Debug\HomeView.g.cs
+C:\_APNET\AP\obj\Debug\LineaView.g.cs
+C:\_APNET\AP\obj\Debug\SERVOMEC\CEISView.g.cs
+C:\_APNET\AP\obj\Debug\SERVOMEC\ClienteView.g.cs
+C:\_APNET\AP\obj\Debug\SERVOMEC\DistribuidorView.g.cs
+C:\_APNET\AP\obj\Debug\SERVOMEC\DosificadorView.g.cs
+C:\_APNET\AP\obj\Debug\SERVOMEC\EmpujadorView.g.cs
+C:\_APNET\AP\obj\Debug\SERVOMEC\MotorizacionView.g.cs
+C:\_APNET\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.g.cs
+C:\_APNET\AP\obj\Debug\UserView.g.cs
+C:\_APNET\AP\obj\Debug\Header.g.cs
+C:\_APNET\AP\obj\Debug\UserLogIn.g.cs
+C:\_APNET\AP\obj\Debug\App.g.cs
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\_APNET\AP\obj\Debug\addTest.baml
+C:\_APNET\AP\obj\Debug\HomeView.baml
+C:\_APNET\AP\obj\Debug\LineaView.baml
+C:\_APNET\AP\obj\Debug\SERVOMEC\CEISView.baml
+C:\_APNET\AP\obj\Debug\SERVOMEC\ClienteView.baml
+C:\_APNET\AP\obj\Debug\SERVOMEC\DistribuidorView.baml
+C:\_APNET\AP\obj\Debug\SERVOMEC\DosificadorView.baml
+C:\_APNET\AP\obj\Debug\SERVOMEC\EmpujadorView.baml
+C:\_APNET\AP\obj\Debug\SERVOMEC\MotorizacionView.baml
+C:\_APNET\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.baml
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.g.resources
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.Properties.Resources.resources
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csproj.GenerateResource.Cache
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\_APNET\AP\obj\Debug\FAMA.AP.Desktop.View.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET - Mayo19 03 55\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET - Mayo19 03 55\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET - Mayo19 03 55\AP\obj\Debug\FAMA.AP.Desktop.View.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.Desktop.View.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.DataLayer.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.Model.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.Model.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\ADMIN\ClientView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\ADMIN\ProcessTypeView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\CeisView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\EventsView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\MechanismView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SectionsBar.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\UserView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\Header.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\UserLogIn.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\addTest.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\ADMIN\ClientView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\ADMIN\ProcessTypeView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\CeisView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\EventsView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\HomeView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\LineaView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\MechanismView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\ModalView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SectionsBar.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\CEISView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\ClienteView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\DistribuidorView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\DosificadorView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\EmpujadorView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\MotorizacionView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\TiemposOperacion.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\TiemposOperacionA.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\USERCTL\SectionsView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\UserView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\Header.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\UserLogIn.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\App.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\App.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\addTest.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\ButtonStyle.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\HomeView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\LineaView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\ModalView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\CEISView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\ClienteView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\DistribuidorView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\DosificadorView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\EmpujadorView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\MotorizacionView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\TiemposOperacion.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\TiemposOperacionA.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\USERCTL\SectionsView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.g.resources
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.Properties.Resources.resources
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csproj.GenerateResource.Cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe.config
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.Desktop.View.exe
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.Desktop.View.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.DataLayer.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.Model.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.Model.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csprojResolveAssemblyReference.cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ADMIN\BarSeries.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ADMIN\ClientView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ADMIN\ProcessTypeView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\CeisView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\EventsView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\MechanismView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SectionsBar.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\UserView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\Header.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\UserLogIn.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\addTest.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ADMIN\BarSeries.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ADMIN\ClientView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ADMIN\ProcessTypeView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\CeisView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\EventsView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\HomeView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\LineaView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\MechanismView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ModalView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SectionsBar.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\CEISView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\ClienteView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\DistribuidorView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\DosificadorView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\EmpujadorView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\MotorizacionView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\TiemposOperacion.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\TiemposOperacionA.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\USERCTL\SectionsView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\UserView.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\Header.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\UserLogIn.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\App.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View_Content.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View_MarkupCompile.lref
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\App.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\addTest.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ButtonStyle.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\HomeView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\LineaView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\ModalView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\CEISView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\ClienteView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\DistribuidorView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\DosificadorView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\EmpujadorView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\MotorizacionView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\SERVOMEC\NavegacionServoMecView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\TiemposOperacion.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\TiemposOperacionA.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\USERCTL\SectionsView.baml
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.g.resources
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.Properties.Resources.resources
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.csproj.GenerateResource.Cache
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.exe
+C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\AP\obj\Debug\FAMA.AP.Desktop.View.pdb

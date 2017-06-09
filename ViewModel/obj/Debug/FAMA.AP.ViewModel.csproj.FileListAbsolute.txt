@@ -54,3 +54,14 @@ C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\
 C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
 C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
 C:\Users\GOPPRO0001\Documents\Visual Studio 2015\Projects\FAMA.APNET\FAMA.APNET\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\obj\Debug\FAMA.AP.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\FAMA.AP.ViewModel.pdb
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\FAMA.AP.DataLayer.dll
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\FAMA.AP.Model.dll
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\OxyPlot.dll
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\FAMA.AP.Model.pdb
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\bin\Debug\FAMA.AP.DataLayer.pdb
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\obj\Debug\FAMA.AP.ViewModel.dll
+C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\ViewModel\obj\Debug\FAMA.AP.ViewModel.pdb

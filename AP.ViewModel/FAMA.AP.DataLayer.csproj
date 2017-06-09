@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DbBarSeries.cs" />
     <Compile Include="DbCeis.cs" />
     <Compile Include="DbClient.cs" />
     <Compile Include="DbLogIn.cs" />
+    <Compile Include="DbMaquina.cs" />
     <Compile Include="DbMechanism.cs" />
+    <Compile Include="DbMecanismos.cs" />
     <Compile Include="DbProcessType.cs" />
     <Compile Include="DbProcessValue.cs" />
     <Compile Include="DbSections.cs" />

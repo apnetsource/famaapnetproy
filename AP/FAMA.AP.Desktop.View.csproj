@@ -88,7 +88,7 @@
     <Compile Include="addTest.xaml.cs">
       <DependentUpon>addTest.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ADMIN\BarSeries.xaml.cs" />
+    <Compile Include="ADMIN\BarSeries.cs" />
     <Compile Include="ADMIN\ClientView.xaml.cs" />
     <Compile Include="ADMIN\ProcessTypeView.xaml.cs" />
     <Compile Include="CeisView.xaml.cs" />
@@ -132,6 +132,7 @@
     <Compile Include="TiemposOperacion.xaml.cs">
       <DependentUpon>TiemposOperacion.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MecanismosView.xaml.cs" />
     <Compile Include="TiemposOperacionA.xaml.cs" />
     <Compile Include="USERCTL\SectionsView.xaml.cs">
       <DependentUpon>SectionsView.xaml</DependentUpon>
@@ -218,6 +219,10 @@
     <Page Include="TiemposOperacion.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MecanismosView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="TiemposOperacionA.xaml">
       <Generator>MSBuild:Compile</Generator>

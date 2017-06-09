@@ -45,7 +45,7 @@
         </Grid>
 
         <Grid>
-            <GraficaControl:BarSeriess Margin="500,150,0,146" HorizontalAlignment= "Left" VerticalAlignment="Center" Height="290" Width="965"></GraficaControl:BarSeriess>
+            <GraficaControl:BarSeries Margin="500,150,0,146" HorizontalAlignment= "Left" VerticalAlignment="Center" Height="290" Width="965"></GraficaControl:BarSeries>
         </Grid>
 
     </Grid>

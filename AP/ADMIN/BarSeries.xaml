@@ -1,9 +1,12 @@
-﻿<UserControl x:Class="FAMA.AP.Desktop.View.ADMIN.BarSeriess"
+﻿<UserControl x:Class="FAMA.AP.Desktop.View.ADMIN.BarSeries"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:oxy="http://oxyplot.org/wpf"
-       Height="300" Width="300">
+        xmlns:oxy="http://oxyplot.org/wpf"  
+        xmlns:vm="clr-namespace:FAMA.AP.ViewModel;assembly=FAMA.AP.ViewModel">
+    <Control.DataContext>
+        <vm:MainWindowModel/>
+    </Control.DataContext>
     <Grid>
-        <oxy:PlotView Model="{Binding Model}"/>
+        <oxy:PlotView x:Name="Plot1" Model="{Binding PlotModel}" Margin="10" Grid.Row="1"></oxy:PlotView>
     </Grid>
 </UserControl>

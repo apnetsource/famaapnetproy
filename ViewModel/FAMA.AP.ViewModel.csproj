@@ -31,6 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="OxyPlot">
+      <HintPath>..\AP\bin\Debug\OxyPlot.dll</HintPath>
+    </Reference>
+    <Reference Include="OxyPlot.Wpf">
+      <HintPath>..\AP\bin\Debug\OxyPlot.Wpf.dll</HintPath>
+    </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
@@ -42,12 +48,14 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BarSeriesViewModel.cs" />
     <Compile Include="CeisViewModel.cs" />
     <Compile Include="ClientViewModel.cs" />
     <Compile Include="DelegateCommand.cs" />
     <Compile Include="EventsViewModel.cs" />
     <Compile Include="LogInViewModel.cs" />
     <Compile Include="MechanismViewModel.cs" />
+    <Compile Include="MecanismosViewModel.cs" />
     <Compile Include="ProcessTypeViewModel.cs" />
     <Compile Include="ProcessValueViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

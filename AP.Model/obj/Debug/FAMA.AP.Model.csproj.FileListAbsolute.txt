@@ -25,4 +25,3 @@ C:\famaapnetproy\AP.Model\bin\Debug\FAMA.AP.Model.dll
 C:\famaapnetproy\AP.Model\bin\Debug\FAMA.AP.Model.pdb
 C:\famaapnetproy\AP.Model\obj\Debug\FAMA.AP.Model.dll
 C:\famaapnetproy\AP.Model\obj\Debug\FAMA.AP.Model.pdb
-C:\famaapnetproy\AP.Model\obj\Debug\FAMA.AP.Model.csprojResolveAssemblyReference.cache

@@ -62,3 +62,6 @@ C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\AP.ViewModel\
 C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\AP.ViewModel\obj\Debug\FAMA.AP.DataLayer.csprojResolveAssemblyReference.cache
 C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\AP.ViewModel\obj\Debug\FAMA.AP.DataLayer.dll
 C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\AP.ViewModel\obj\Debug\FAMA.AP.DataLayer.pdb
+C:\famaapnetproy\AP.ViewModel\obj\Debug\FAMA.AP.DataLayer.csprojResolveAssemblyReference.cache
+C:\famaapnetproy\AP.ViewModel\obj\Debug\FAMA.AP.DataLayer.dll
+C:\famaapnetproy\AP.ViewModel\obj\Debug\FAMA.AP.DataLayer.pdb

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\AP\obj\Debug\
+C:\famaapnetproy\AP\obj\Debug\
 FAMA.AP.Desktop.View
 none
 false
 DEBUG;TRACE
-C:\Users\GMTYPRO004\Documents\Visual Studio 2015\Projects\FAMA.APN\AP\App.xaml
+C:\famaapnetproy\AP\App.xaml
 261209220090
 201072628941
-33-1913597901
-71-1911754230
+33-1557568607
+71339961151
 addTest.xaml;ADMIN\BarSeries.xaml;ADMIN\ClientView.xaml;ADMIN\ProcessTypeView.xaml;ButtonStyle.xaml;CeisView.xaml;EventsView.xaml;HomeView.xaml;LineaView.xaml;MechanismView.xaml;ModalView.xaml;SectionsBar.xaml;SERVOMEC\CEISView.xaml;SERVOMEC\ClienteView.xaml;SERVOMEC\DistribuidorView.xaml;SERVOMEC\DosificadorView.xaml;SERVOMEC\EmpujadorView.xaml;SERVOMEC\MotorizacionView.xaml;SERVOMEC\NavegacionServoMecView.xaml;TiemposOperacion.xaml;MecanismosView.xaml;TiemposOperacionA.xaml;USERCTL\SectionsView.xaml;UserView.xaml;Header.xaml;UserLogIn.xaml;
 
 True
